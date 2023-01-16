@@ -21,7 +21,7 @@ This case study aims to identify patterns which indicate if a client has difficu
 
 6.Data Imbalance and other analysis
 
-7. Analysis- Univariate and Bivariate and Correlation
+7.Analysis- Univariate and Bivariate and Correlation
 
 8.Correlation
 
